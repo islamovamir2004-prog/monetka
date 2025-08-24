@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Монетка 💰</title>
+  <style>
+    body {
+      background-color: #FFD700; /* жёлтый как монета */
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 50px;
+    }
+    h1 {
+      font-size: 32px;
+    }
+    button {
+      display: block;
+      margin: 15px auto;
+      padding: 15px 30px;
+      font-size: 18px;
+      border: none;
+      border-radius: 15px;
+      background: white;
+      cursor: pointer;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    }
+  </style>
+</head>
+<body>
+  <h1>Монетка 💰</h1>
+  <button>🟡 Актуальные акции</button>
+  <button>🎁 Халява</button>
+  <button>🏦 Банковские привилегии</button>
+</body>
+</html>
